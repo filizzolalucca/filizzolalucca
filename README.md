@@ -41,6 +41,18 @@ A personal organizer with a cute panda. Tasks and calendar live in one place and
 
 <br>
 
+### Dinos Park · SwiftUI + MapKit
+
+<a href="https://github.com/filizzolalucca/DinosParK"><img src="assets/showcase/dinos-park.png" alt="Dinos Park screenshots" width="100%"></a>
+
+A catalog of the apex predators from the *Jurassic Park* movies, with search, filters and movie trivia. Each dinosaur has a live map preview that zooms into a 3D map with every predator pinned where it was seen.
+
+`SwiftUI` `MapKit` `3D maps` `Zoom transitions` `Searchable` `Codable`
+
+**[View repository →](https://github.com/filizzolalucca/DinosParK)**
+
+<br>
+
 ### Smart Home · Flutter + ESP8266
 
 <a href="https://github.com/filizzolalucca/esp8266_casa_automatica_flutter"><img src="assets/showcase/smart-home.png" alt="Smart Home app screenshots" width="100%"></a>

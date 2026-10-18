@@ -1,40 +1,107 @@
-# Hi, I'm Lucca 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Lucca Filizzola, Mobile Developer" width="100%">
+</picture>
 
-Software developer focused on **mobile apps**: native iOS with SwiftUI, cross-platform with Flutter and Android with Kotlin. I also build the back ends behind them with Go, Node.js and NestJS, and I've worked with IoT on the ESP8266.
+<br>
+
+I'm a **mobile developer** who enjoys turning ideas into polished, real apps. I build native iOS apps with **SwiftUI** and **UIKit**, Android apps with **Kotlin**, and cross-platform apps with **Flutter**. When an app needs a back end or some hardware, I build that too.
+
+- 📱 **iOS**: SwiftUI, UIKit, async/await, Observation, MVVM
+- 🤖 **Android**: Kotlin, MVVM, Koin, Retrofit, coroutines
+- 💙 **Flutter**: Provider, get_it, local storage, MQTT, notifications
+- 🔌 **IoT**: a smart home with an ESP8266 board and a Flutter app, my final-year project
+- ⚙️ **Back end**: REST APIs with Go, NestJS and Node.js
+
+<br>
+
+## 📱 Featured apps
+
+### BB Quotes · SwiftUI
+
+<a href="https://github.com/filizzolalucca/bb_quotes"><img src="assets/showcase/bb-quotes.png" alt="BB Quotes screenshots" width="100%"></a>
+
+Random quotes from *Breaking Bad* and *Better Call Saul*, the character who said each one and how they died. A single SwiftUI codebase that runs on iPhone, iPad, Mac and Apple Vision Pro.
+
+`SwiftUI` `Swift 6` `async/await` `Observation` `MVVM` `REST API`
+
+**[View repository →](https://github.com/filizzolalucca/bb_quotes)**
+
+<br>
+
+### Livoca · Flutter
+
+<a href="https://github.com/filizzolalucca/Livoca"><img src="assets/showcase/livoca.png" alt="Livoca screenshots" width="100%"></a>
+
+A personal organizer with a cute panda. Tasks and calendar live in one place and are grouped by day, week, month and year, with a daily briefing, drag and drop and a confetti celebration when you finish everything. Works fully offline.
+
+`Flutter` `Dart` `shared_preferences` `table_calendar` `Drag and drop` `Offline-first`
+
+**[View repository →](https://github.com/filizzolalucca/Livoca)**
+
+<br>
+
+### Smart Home · Flutter + ESP8266
+
+<a href="https://github.com/filizzolalucca/esp8266_casa_automatica_flutter"><img src="assets/showcase/smart-home.png" alt="Smart Home app screenshots" width="100%"></a>
+
+My final-year project: a house controlled from the phone. The Flutter app switches lights, shows live temperature and humidity, and sends push notifications when the presence sensor or doorbell is triggered. An ESP8266 board running C++ firmware talks to the app over MQTT.
+
+`Flutter` `MQTT` `Adafruit IO` `Push notifications` `ESP8266` `C++`
+
+**[App repository →](https://github.com/filizzolalucca/esp8266_casa_automatica_flutter)** · **[Firmware repository →](https://github.com/filizzolalucca/smart_home_tcc)**
+
+<br>
+
+### GitHub List · UIKit and Kotlin
+
+<a href="https://github.com/filizzolalucca/gitListApp_ios"><img src="assets/showcase/github-list.png" alt="GitHub List iOS screenshots" width="100%"></a>
+
+The same app built natively twice, for iOS and Android: it lists the most-starred Java repositories on GitHub and their pull requests, using MVVM and dependency injection on both platforms.
+
+`UIKit` `Alamofire` `Resolver` `Kotlin` `Koin` `Retrofit` `Coroutines`
+
+**[iOS repository →](https://github.com/filizzolalucca/gitListApp_ios)** · **[Android repository →](https://github.com/filizzolalucca/GitHubList_android)**
+
+<br>
+
+### Prancing Pony Exchange · SwiftUI
+
+<a href="https://github.com/filizzolalucca/udemy"><img src="assets/showcase/currency-converter.png" alt="Currency converter screenshots" width="100%"></a>
+
+A fantasy-themed currency converter: two-way conversion between gold, silver and copper coins, a coin picker grid, an exchange rates screen and onboarding hints with TipKit.
+
+`SwiftUI` `TipKit` `UserDefaults` `LazyVGrid`
+
+**[View repository →](https://github.com/filizzolalucca/udemy)**
+
+<br>
 
 ## 🛠️ Tech stack
 
-**Mobile**<br>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+**Mobile**
 
-**Back end**<br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,apple,androidstudio" alt="Swift, Kotlin, Flutter, Dart, iOS, Android Studio">
 
-**Web and others**<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266">
+**Back end and data**
 
-## 🚀 Featured projects
+<img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,python,firebase,supabase,mongodb" alt="Go, Node.js, NestJS, Python, Firebase, Supabase, MongoDB">
 
-| Project | Description | Stack |
+**Web, hardware and tools**
+
+<img src="https://skillicons.dev/icons?i=ts,react,html,css,java,cpp,arduino,git,github,vscode" alt="TypeScript, React, HTML, CSS, Java, C++, Arduino, Git, GitHub, VS Code">
+
+<br>
+
+## 🧩 More projects
+
+| Project | What it is | Stack |
 |---|---|---|
-| [**BB Quotes**](https://github.com/filizzolalucca/bb_quotes) | Random quotes from *Breaking Bad* and *Better Call Saul*, with character and death details | SwiftUI, async/await, MVVM |
-| [**Livoca**](https://github.com/filizzolalucca/Livoca) | Personal organizer with a cute panda: tasks and calendar in one place, fully offline | Flutter |
-| **Smart Home** ([app](https://github.com/filizzolalucca/esp8266_casa_automatica_flutter) · [firmware](https://github.com/filizzolalucca/smart_home_tcc)) | Control lights, security mode and sensors of an ESP8266 house over MQTT. Final-year project | Flutter, C++, MQTT |
-| **GitHub List** ([iOS](https://github.com/filizzolalucca/gitListApp_ios) · [Android](https://github.com/filizzolalucca/GitHubList_android)) | The same app built natively twice: top Java repositories and their pull requests | UIKit, Kotlin, MVVM |
-| **Sustainability Quiz** ([app](https://github.com/filizzolalucca/quiz_app_front_end_flutter) · [API](https://github.com/filizzolalucca/quiz_app_back_end)) | Quiz app with accounts, subjects and score tracking | Flutter, NestJS, Supabase |
-| [**Portal dos Filmes**](https://github.com/filizzolalucca/Portal_Filmes_web) | Movie portal powered by the TMDB API | HTML, CSS, JavaScript |
-| [**Graph Library**](https://github.com/filizzolalucca/grafos_puc_ALW) | Graphs with adjacency matrix and list, Dijkstra, Bellman-Ford, Floyd-Warshall and A* | Java |
+| [Sustainability Quiz](https://github.com/filizzolalucca/quiz_app_front_end_flutter) | Quiz app with accounts, subjects and score tracking, plus its [REST API](https://github.com/filizzolalucca/quiz_app_back_end) | Flutter, NestJS, Supabase |
+| [Smart Home Firmware](https://github.com/filizzolalucca/smart_home_tcc) | ESP8266 firmware for lights, sensors, security and energy-saving modes | C++, PlatformIO, MQTT |
+| [Portal dos Filmes](https://github.com/filizzolalucca/Portal_Filmes_web) | Movie portal with search and details, powered by the TMDB API | HTML, CSS, JavaScript |
+| [Graph Library](https://github.com/filizzolalucca/grafos_puc_ALW) | Graphs with Dijkstra, Bellman-Ford, Floyd-Warshall and A* | Java |
+
+<br>
+
+<p align="center"><sub>Thanks for stopping by! ✨</sub></p>

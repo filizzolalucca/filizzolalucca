@@ -53,6 +53,18 @@ A catalog of the apex predators from the *Jurassic Park* movies, with search, fi
 
 <br>
 
+### Repo Explorer · UIKit
+
+<a href="https://github.com/filizzolalucca/RepositoryTest"><img src="assets/showcase/repo-explorer.png" alt="Repo Explorer screenshots" width="100%"></a>
+
+A GitHub profile viewer built entirely in view code: profile header, repository cards with a shimmer skeleton, and each repository's latest commit loaded on demand as you scroll. MVVM with async/await, dark mode and no third-party libraries.
+
+`UIKit` `View code` `MVVM` `async/await` `Skeleton loading` `GitHub API`
+
+**[View repository →](https://github.com/filizzolalucca/RepositoryTest)**
+
+<br>
+
 ### Smart Home · Flutter + ESP8266
 
 <a href="https://github.com/filizzolalucca/esp8266_casa_automatica_flutter"><img src="assets/showcase/smart-home.png" alt="Smart Home app screenshots" width="100%"></a>

@@ -55,13 +55,13 @@ A catalog of the apex predators from the *Jurassic Park* movies, with search, fi
 
 ### Repo Explorer · UIKit
 
-<a href="https://github.com/filizzolalucca/RepositoryTest"><img src="assets/showcase/repo-explorer.png" alt="Repo Explorer screenshots" width="100%"></a>
+<a href="https://github.com/filizzolalucca/repo-explorer"><img src="assets/showcase/repo-explorer.png" alt="Repo Explorer screenshots" width="100%"></a>
 
 A GitHub profile viewer built entirely in view code: profile header, repository cards with a shimmer skeleton, and each repository's latest commit loaded on demand as you scroll. MVVM with async/await, dark mode and no third-party libraries.
 
 `UIKit` `View code` `MVVM` `async/await` `Skeleton loading` `GitHub API`
 
-**[View repository →](https://github.com/filizzolalucca/RepositoryTest)**
+**[View repository →](https://github.com/filizzolalucca/repo-explorer)**
 
 <br>
 

@@ -5,9 +5,15 @@
 
 <br>
 
-I'm a **mobile developer** who enjoys turning ideas into polished, real apps. I build native iOS apps with **SwiftUI** and **UIKit**, Android apps with **Kotlin**, and cross-platform apps with **Flutter**. When an app needs a back end or some hardware, I build that too.
+<p>
+  <a href="https://www.linkedin.com/in/lucca-filizzola/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-- 📱 **iOS**: SwiftUI, UIKit, async/await, Observation, MVVM
+I'm an **iOS developer at [Neon](https://neon.com.br)**, one of Brazil's largest digital banks, with **5+ years** building native mobile apps used by millions of customers. Day to day I work with Swift, VIPER, MVVM and Server-Driven UI.
+
+Outside work, I keep building apps of my own: native iOS with **SwiftUI** and **UIKit**, Android with **Kotlin** and cross-platform with **Flutter**. When an app needs a back end or some hardware, I build that too.
+
+- 📱 **iOS**: Swift, SwiftUI, UIKit, VIPER, MVVM, Server-Driven UI, async/await
 - 🤖 **Android**: Kotlin, MVVM, Koin, Retrofit, coroutines
 - 💙 **Flutter**: Provider, get_it, local storage, MQTT, notifications
 - 🔌 **IoT**: a smart home with an ESP8266 board and a Flutter app, my final-year project
